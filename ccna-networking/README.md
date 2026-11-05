@@ -5,7 +5,7 @@ Welcome to my computer networking repository! This project presents a full enter
 ## Project Overview
 The primary objective of this project is to build a secure, scalable, and fully functional multi-site enterprise network with dynamic routing, VLAN segmentation, automated IP allocation, and traffic control.
 
-* **Main Simulation File:** `finaly.pkt`
+* **Main Simulation File:** `finaly.pkt شبكات المشاريع`
 * **Status:** Completed & Verified
 
 ---
