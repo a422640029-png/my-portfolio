@@ -44,5 +44,7 @@ The primary objective of this project is to build a secure, scalable, and fully 
 * **Web Services:** Local intranet deployment (`www.medicare.local`).
 
 ## How to Run
-1. Download **Cisco Packet Tracer**.
-2. Open `finaly.pkt` to inspect configurations and test connectivity.
+1. Download and install **Cisco Packet Tracer**.
+2. Clone or download this repository:
+   ```bash
+   git clone [https://github.com/a422640029-png/ccna-networking.git](https://github.com/a422640029-png/ccna-networking.git)
