@@ -47,4 +47,4 @@ The primary objective of this project is to build a secure, scalable, and fully 
 1. Download and install **Cisco Packet Tracer**.
 2. Clone or download this repository:
    ```bash
-   git clone [https://github.com/a422640029-png/ccna-networking.git](https://github.com/a422640029-png/ccna-networking.git)
+   git clone [https://github.com/a422640029/ccna-networking.git](https://github.com/a422640029/ccna-networking.git)
