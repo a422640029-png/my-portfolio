@@ -38,9 +38,12 @@ The primary objective of this project is to build a secure, scalable, and fully 
 
 | File Name | Description & Applied Technology |
 | :---: | :--- |
-| **`network1.jpeg`** | Full logical network topology overview. |
-| **`network2.jpeg` / `network3.jpeg`** | Router interface IP configurations and VLAN trunking setups. |
-| **`network4.jpeg` / `network5.jpeg`** | OSPF routing table verification (`show ip route`) and active path discovery. |
-| **`network6.jpeg` / `network7.jpeg`** | Active DHCP bindings check and Extended ACL 105 security rule deployment. |
+| **`network1.jpeg`** | Full logical network topology overview.<br>![network1](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network1.jpeg) |
+| **`network2.jpeg` / `network3.jpeg`** | Router interface IP configurations and VLAN trunking setups.<br>![network2](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network2.jpeg) ![network3](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network3.jpeg) |
+| **`network4.jpeg` / `network5.jpeg`** | OSPF routing table verification (`show ip route`) and active path discovery.<br>![network4](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network4.jpeg) ![network5](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network5.jpeg) |
+| **`network6.jpeg` / `network7.jpeg`** | Active DHCP bindings check and Extended ACL 105 security rule deployment.<br>![network6](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network6.jpeg) ![network7](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network7.jpeg) |
+| **`network8.jpeg` / `network9.jpeg`** | End-to-end ICMP `ping` testing, path validation, and ACL block checks.<br>![network8](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network8.jpeg) ![network9](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network9.jpeg) |
+| **`network10.jpeg`** | Client web browser verification fetching `www.medicare.local` over HTTP.<br>![network10](https://raw.githubusercontent.com/a422640029-png/ccna-networking/main/network10.jpeg) |
+
 | **`network8.jpeg` / `network9.jpeg`** | End-to-end ICMP `ping` testing, path validation, and ACL block checks. |
 | **
